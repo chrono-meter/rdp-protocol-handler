@@ -2,7 +2,7 @@
 #define MyAppName "rdp-protocol-handler"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "chrono-meter@gmx.net"
-#define MyAppURL ""
+#define MyAppURL "https://github.com/chrono-meter/rdp-protocol-handler"
 
 [Setup]
 AppId={{8CF91C0E-652F-421C-9DCC-8C87702D2CCE}
